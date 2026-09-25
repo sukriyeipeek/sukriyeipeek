@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Advanced RAG pipelines, LLM Orchestration, and Custom NLP Solutions**
-- 🌱 I’m currently learning **Applied ML, Data Engineering for AI, and LLM Fine-Tuning (LoRA/QLoRA)**
-- 💬 Ask me about **NLP, RAG Architectures, Python, and Vector Databases**
+-  I’m currently working on **Advanced RAG pipelines, LLM Orchestration, and Custom NLP Solutions**
+-  I’m currently learning **Applied ML, Data Engineering for AI, and LLM Fine-Tuning (LoRA/QLoRA)**
+-  Ask me about **NLP, RAG Architectures, Python, and Vector Databases**
 
 ---
 

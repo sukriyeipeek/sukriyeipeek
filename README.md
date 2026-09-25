@@ -1,8 +1,10 @@
 <div align="center">
 
-  <!-- Daktilo / Tabela Efekti -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vcenter=true&width=600&lines=Hi!+I'm+a+Computer+Engineering+Student;Currently+working+on+NLP%2C+LLMs+%26+RAG;Learning+ML%2C+Data+Engineering+%26+Model+Fine-Tuning;Building+End-to-End+AI+Applications" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%21+I%27m+a+Computer+Engineering+Student;Currently+Exploring+NLP%2C+LLMs+and+RAG;Learning+Deep+Learning+and+Fine-Tuning;Building+End-to-End+AI+Applications"
+      alt="Typing SVG"
+    />
   </a>
 
 </div>
